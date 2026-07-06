@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://m0ka907.github.io/">
+  <a href="https://tspinretro.com">
     <img src="./assets/moka-skeuo-hero.svg" alt="M0KA907" width="260">
   </a>
 </p>
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://m0ka907.github.io/">
+  <a href="https://tspinretro.com">
     <img src="./assets/moka-skeuo-portfolio.svg" alt="Portfolio" height="42">
   </a>
   &nbsp;
